@@ -1,12 +1,6 @@
 [user]
 	email = gawasvedraj@gmail.com
 	name = Vedraj Gawas
-[credential "https://github.com"]
-	helper = 
-	helper = !/usr/bin/gh auth git-credential
-[credential "https://gist.github.com"]
-	helper = 
-	helper = !/usr/bin/gh auth git-credential
 [merge]
 	conflictStyle = diff3
 [alias]
