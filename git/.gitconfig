@@ -1,9 +1,7 @@
 [user]
-	email = gawasvedraj@gmail.com
-	name = Vedraj Gawas
+        email = gawasvedraj@gmail.com
+        name = Vedraj Gawas
 [merge]
-	conflictStyle = diff3
+        conflictStyle = diff3
 [alias]
-    tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
-[init]
-	defaultBranch = main
+        tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
