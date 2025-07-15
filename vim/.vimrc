@@ -4,10 +4,9 @@ set showmode
 set wrap
 set linebreak
 set noshowmatch
-set shortmess=I
 
-set tabstop=8
-set shiftwidth=8
+set tabstop=4
+set shiftwidth=4
 set noexpandtab
 set smartindent
 set autoindent
