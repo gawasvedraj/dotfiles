@@ -1,4 +1,8 @@
-colorscheme slate
+silent! set termguicolors
+set background=dark
+silent! colorscheme gruvbox
+command! InstallGruvbox !git clone https://github.com/gawasvedraj/gruvbox-vim.git ~/.vim/pack/default/start/gruvbox
+
 set number
 set showmode
 set wrap
