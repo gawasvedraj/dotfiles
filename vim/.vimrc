@@ -16,7 +16,7 @@ set smartindent
 set autoindent
 
 set list
-set listchars=tab:»\ ,extends:›,precedes:‹,nbsp:·,trail:·
+set listchars=tab:\|\ ,extends:›,precedes:‹,nbsp:·,trail:·
 
 syntax on
 filetype on
