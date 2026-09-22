@@ -8,7 +8,7 @@
 [init]
 	defaultBranch = master
 
-# clearly makes git better
+# Better Git
 
 [column]
 	ui = auto
@@ -30,7 +30,7 @@
 	pruneTags = true
 	all = true
 
-# why the hell not?
+# QoL
 
 [help]
 	autocorrect = prompt
@@ -45,3 +45,6 @@
 	autoSquash = true
 	autoStash = true
 	updateRefs = true
+
+# Appends
+
